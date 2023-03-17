@@ -8,6 +8,7 @@ public class Exercicio01 {
 		
 		Scanner leia = new Scanner (System.in);
 		
+		
 		float salario, abono;
 		String nome;
 	     System.out.println("Digite e sobrenome nome do funcionário: ");

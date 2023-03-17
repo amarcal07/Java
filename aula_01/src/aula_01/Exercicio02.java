@@ -11,7 +11,7 @@ public class Exercicio02 {
 
 		        float nota1, nota2, nota3, nota4;
 		        String nome;
-
+		        
 		        System.out.println("Digite o nome e sobrenome do Aluno: ");
 		        nome = leia.nextLine();
 
@@ -26,7 +26,7 @@ public class Exercicio02 {
 
 		        System.out.print("Digite a quarta nota: ");
 		        nota4 = leia.nextFloat();
-
+		        
 
 		        System.out.println("Aluno: " + nome);
 		        System.out.println("Média Final: " + (nota1 + nota2 + nota3 + nota4 /4));
