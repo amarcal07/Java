@@ -22,7 +22,7 @@ public class Cadeias {
 		System.out.println(s1.toLowerCase());
 		
 		System.out.println(s1.substring(0,10));
-		
+		 
 		//se contém a palavra ou letra
 		System.out.println(s1.contains("Generation"));
 	}
