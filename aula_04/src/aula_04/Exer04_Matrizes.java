@@ -6,8 +6,10 @@ public class Exer04_Matrizes {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
-		
+		 
+     // 2 colchetes é uma matriz: [] []     //linha Coluna
 		float[][] matrizNotasAlunos = new float[10][4];
+    // 1 colchete é um vetor: []
 		float[] vetorMedias = new float[10];
 		float soma = 0, media = 0;
 		
