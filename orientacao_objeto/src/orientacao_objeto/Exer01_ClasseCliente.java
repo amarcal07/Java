@@ -8,6 +8,7 @@ public class Exer01_ClasseCliente {
 	private String cidade;
 	private String telefone;
 	
+	
 	public Exer01_ClasseCliente(String nome, int idade, String sexo, String cidade, String telefone) {
 		this.nome = nome;
 		this.idade = idade;
@@ -64,8 +65,7 @@ public class Exer01_ClasseCliente {
 		System.out.println("Sexo: " + this.sexo);
 		System.out.println("Cidade: " + this.cidade);
 		System.out.println("Telefone: " + this.telefone);
-		System.out.println("***********************************");
-		System.out.println("\n");
+		System.out.println("                                   ");
 	
 	}
 }

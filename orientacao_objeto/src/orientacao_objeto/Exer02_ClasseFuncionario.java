@@ -79,8 +79,7 @@ public class Exer02_ClasseFuncionario {
 		System.out.println("Departamento: " + this.departamento);
 		System.out.println("Funcao: " + this.funcao);
 		System.out.println("Salario: " + this.salario);
-		System.out.println("***********************************");
-		System.out.println("\n");
+		System.out.println("                                   ");
 		
 	}
 	
